@@ -49,12 +49,11 @@ AskZiweiiPhone 采用最新的 iOS 开发技术，确保应用的流畅性和稳
 
 如果您有任何问题或建议，请通过以下方式联系我们：
 
-- 技术支持：support@askziwei.com
-- 官方网站：https://askziwei.com
+- 技术支持：wuunicorn@gmai.com
 
 ## 版权信息
 
-© 2024 AskZiweiiPhone. All rights reserved.
+© 2025 AskZiweiiPhone. All rights reserved.
 
 ---
 
